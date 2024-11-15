@@ -1,4 +1,4 @@
-### Student Dropout Prediction Project - Data Preprocessing
+# Student Dropout Prediction Project - Data Preprocessing
 
 ![studentsaiiii](https://github.com/user-attachments/assets/f2fa0858-16a8-41a2-8ca0-3536e89e5418)
 
@@ -61,7 +61,7 @@ Link: https://ieeexplore.ieee.org/document/9570956
    - Created visualizations to analyze trends and relationships between key features and dropout rates.
    - Generated comparative plots for model performance evaluation.
 
-Check [THE NOTEBOOK]() for more details
+Check [THE NOTEBOOK](https://github.com/MohamedAYasin/ML-Pipeline_Data-Preprocessing/blob/main/ml_pipeline_%5BMohamed_Yasin%5D_data_preprocessing.ipynb) for more details
 
 ---
 
