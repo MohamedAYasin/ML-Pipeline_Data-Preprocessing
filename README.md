@@ -1,4 +1,7 @@
-### README for Student Dropout Prediction Project
+### Student Dropout Prediction Project - Data Preprocessing
+
+![studentsaiiii](https://github.com/user-attachments/assets/f2fa0858-16a8-41a2-8ca0-3536e89e5418)
+
 
 ---
 
