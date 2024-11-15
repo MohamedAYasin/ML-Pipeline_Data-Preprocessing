@@ -5,8 +5,6 @@
 
 ---
 
-# **Student Dropout Prediction Using Machine Learning**
-
 This project aims to predict student dropout rates using machine learning techniques based on various datasets containing academic, financial, and demographic factors. By leveraging predictive analytics, this project seeks to provide insights that can assist educational institutions in identifying at-risk students and improving retention rates.
 
 ## All sources of data for the project:
