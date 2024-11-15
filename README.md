@@ -4,7 +4,7 @@
 
 # **Student Dropout Prediction Using Machine Learning**
 
-This project aims to predict student dropout rates using machine learning techniques based on a dataset containing various academic, financial, and demographic factors. By leveraging predictive analytics, this project seeks to provide insights that can assist educational institutions in identifying at-risk students and improving retention rates.
+This project aims to predict student dropout rates using machine learning techniques based on various datasets containing academic, financial, and demographic factors. By leveraging predictive analytics, this project seeks to provide insights that can assist educational institutions in identifying at-risk students and improving retention rates.
 
 ## All sources of data for the project:
 
@@ -58,20 +58,7 @@ Link: https://ieeexplore.ieee.org/document/9570956
    - Created visualizations to analyze trends and relationships between key features and dropout rates.
    - Generated comparative plots for model performance evaluation.
 
----
-
-## **Dataset Description**
-
-The dataset contains records of students with the following features:
-- **Numerical Features**:
-  - Financial status indicators (e.g., `Debtor`)
-  - Academic metrics (e.g., `Grades`, `Attendance`)
-  - Demographic details (e.g., `Age at Enrollment`)
-- **Categorical Features**:
-  - Target variable: `Dropout`, `Enrolled`, `Graduate`
-  - `Marital Status`, `Gender`
-
-> **Note**: The dataset used is in CSV format. Due to privacy concerns, it is not publicly available in this repository. You can replace the file path with your dataset.
+Check [THE NOTEBOOK]() for more details
 
 ---
 
@@ -79,8 +66,8 @@ The dataset contains records of students with the following features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/dropout-prediction.git
-   cd dropout-prediction
+   git clone https://github.com/MohamedAYasin/ML-Pipeline_Data-Preprocessing.git
+   cd ML-Pipeline_Data-Preprocessing
    ```
 
 2. Install the required libraries:
